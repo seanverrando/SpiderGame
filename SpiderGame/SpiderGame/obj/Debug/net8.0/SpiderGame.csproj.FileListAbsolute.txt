@@ -1,0 +1,14 @@
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\bin\Debug\net8.0\SpiderGame.exe
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\bin\Debug\net8.0\SpiderGame.deps.json
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\bin\Debug\net8.0\SpiderGame.runtimeconfig.json
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\bin\Debug\net8.0\SpiderGame.dll
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\bin\Debug\net8.0\SpiderGame.pdb
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.AssemblyInfoInputs.cache
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.AssemblyInfo.cs
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.csproj.CoreCompileInputs.cache
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.dll
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\refint\SpiderGame.dll
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.pdb
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\SpiderGame.genruntimeconfig.cache
+C:\Users\seanr\source\repos\SpiderGame\SpiderGame\obj\Debug\net8.0\ref\SpiderGame.dll
